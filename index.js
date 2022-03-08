@@ -1,1 +1,1 @@
-console.log("Hello from ROUTS");
+console.log("Hello from ROUTES");
