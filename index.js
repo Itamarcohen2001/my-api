@@ -2,6 +2,7 @@
 // import bodyParser from 'body-parser';
 const express =require('express');
 const bodyParser = require('body-parser');
+
 const app = express();//משתנה שמקבל את כל התכנות של ספריית אקספרס
 
 app.use(bodyParser.urlencoded());
